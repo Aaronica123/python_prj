@@ -5,7 +5,7 @@
 **Date**: November 09, 2025
 
 ## Live App
-https://cord19-explorer.streamlit.app
+ https://aaronica123.github.io/python_prj/
 
 ## Project Overview
 A Streamlit web app to explore the **CORD-19 dataset** of COVID-19 research papers.
